@@ -1,6 +1,6 @@
 # EEFPIT 🎙️ — The 11th Fork
 EEFPIT 🎙️ — The 11th Fork — a declared fork of the P.I.T. Protocol (Public Information Transmission).
 
-Live: https://eefpit.com · Protocol: https://publicinform.com · Consent window: consent@publicinform.com
+Live: https://eefpit.com · Protocol: https://publicinform.com · Consent window: consent@publicinform.com · contribute: contribute@publicinform.com · aloha: aloha@shakaleikaumaka.com
 
 CC0 — fork me like crazy 🍴 The pit provides! 🕳️
